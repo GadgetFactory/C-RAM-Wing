@@ -1,0 +1,58 @@
+
+
+   ---- Transcoding 'C:\dbdev\My Dropbox\GadgetFactory\Shared\Wings\BPW5025-SRAM Wing\gerbers\BPW5025-CRAM_Wing.GBS' ----   Thu Mar 17 09:58:08 2011
+
+D10   --> D100
+D11   --> D101
+D12   --> D102
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\dbdev\My Dropbox\GadgetFactory\Shared\Wings\BPW5025-SRAM Wing\gerbers\BPW5025-CRAM_Wing.GTL' ----   Thu Mar 17 09:58:08 2011
+
+D10   --> D103
+D11   --> D104
+D12   --> D105
+D13   --> D106
+D14   --> D107
+D15   --> D108
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\dbdev\My Dropbox\GadgetFactory\Shared\Wings\BPW5025-SRAM Wing\gerbers\BPW5025-CRAM_Wing.GTO' ----   Thu Mar 17 09:58:08 2011
+
+D10   --> D109
+D11   --> D110
+D12   --> D111
+D13   --> D112
+D14   --> D113
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\dbdev\My Dropbox\GadgetFactory\Shared\Wings\BPW5025-SRAM Wing\gerbers\BPW5025-CRAM_Wing.GTP' ----   Thu Mar 17 09:58:09 2011
+
+D10   --> D114
+D11   --> D115
+D12   --> D116
+D13   --> D117
+D14   --> D118
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\dbdev\My Dropbox\GadgetFactory\Shared\Wings\BPW5025-SRAM Wing\gerbers\BPW5025-CRAM_Wing.GTS' ----   Thu Mar 17 09:58:09 2011
+
+D10   --> D119
+D11   --> D120
+D12   --> D121
+D13   --> D122
+D14   --> D123
+D15   --> D124
+D16   --> D125
+D17   --> D126
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\dbdev\My Dropbox\GadgetFactory\Shared\Wings\BPW5025-SRAM Wing\gerbers\BPW5025-CRAM_Wing.OUT' ----   Thu Mar 17 09:58:09 2011
+
+D10   --> D127
+-----------------------------------------------------------------
