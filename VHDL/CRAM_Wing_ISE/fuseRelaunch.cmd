@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "C:/dbdev/My Dropbox/GadgetFactory/Sump_Blaze_Core/scripts/CRAM_Wing_ISE/cram_wing_tb_isim_beh.exe" -prj "C:/dbdev/My Dropbox/GadgetFactory/Sump_Blaze_Core/scripts/CRAM_Wing_ISE/cram_wing_tb_beh.prj" "work.cram_wing_tb" 
